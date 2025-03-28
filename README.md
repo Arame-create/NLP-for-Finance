@@ -14,12 +14,12 @@ This repository contains an interactive Jupyter Notebook designed to analyze ear
 
 You will need to install the following libraries using pip:   
 
-!pip install nltk  
+* !pip install nltk  
 
-!pip install gensim   
+* !pip install gensim   
 
-!pip install statsmodels   
+* !pip install statsmodels   
 
-!pip install pyarrow   
+* !pip install pyarrow   
 
-!pip install seaborn  
+* !pip install seaborn  
