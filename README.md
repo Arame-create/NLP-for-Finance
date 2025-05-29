@@ -14,9 +14,7 @@ This repository contains an interactive Jupyter Notebook designed to analyze ear
 
 You will need to install the following libraries using pip:   
 
-* !pip install nltk  
-
-* !pip install gensim   
+* !pip install nltk   
 
 * !pip install statsmodels   
 
